@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nishino_nanase</folder>
+	<filename>nogizaka_nanase25_BmfoM7Cl3Xo.jpg</filename>
+	<path>C:\Users\Tim\tensorflow object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\nishino_nanase\nogizaka_nanase25_BmfoM7Cl3Xo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>689</width>
+		<height>689</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nishino_nanase</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>59</ymin>
+			<xmax>591</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

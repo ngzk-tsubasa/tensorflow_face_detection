@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LI_CHIH_HSUAN</folder>
+	<filename>LI_CHIH_HSUAN.f69ea63a-8e43-11ec-a1bc-3c7c3f1adcce.jpg</filename>
+	<path>C:\Users\Tim\tensorflow object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\LI_CHIH_HSUAN\LI_CHIH_HSUAN.f69ea63a-8e43-11ec-a1bc-3c7c3f1adcce.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LI_CHIH_HSUAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>70</ymin>
+			<xmax>380</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

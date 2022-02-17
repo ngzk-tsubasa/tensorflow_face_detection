@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Saitou_Asuka</folder>
+	<filename>nogima211_BlcARDunSFf.jpg</filename>
+	<path>C:\Users\Tim\tensorflow object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\Saitou_Asuka\nogima211_BlcARDunSFf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>871</width>
+		<height>871</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Saitou_Asuka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>26</ymin>
+			<xmax>756</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

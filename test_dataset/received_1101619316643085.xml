@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hori_miona</folder>
+	<filename>received_1101619316643085.jpeg</filename>
+	<path>C:\Users\Tim\tensorflow object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\hori_miona\received_1101619316643085.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hori_miona</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>130</ymin>
+			<xmax>599</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>
