@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Saitou_Asuka</folder>
+	<filename>FB_IMG_1530954603957.jpg</filename>
+	<path>C:\Users\Tim\tensorflow object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\Saitou_Asuka\FB_IMG_1530954603957.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>646</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Saitou_Asuka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>39</ymin>
+			<xmax>429</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

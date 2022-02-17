@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nishino_nanase</folder>
+	<filename>46don1204_BmdtrETnnqt.jpg</filename>
+	<path>C:\Users\Tim\tensorflow object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\nishino_nanase\46don1204_BmdtrETnnqt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nishino_nanase</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>154</ymin>
+			<xmax>675</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>
