@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nishino_nanase</folder>
+	<filename>mainana773_BmLFDrsBS2D.jpg</filename>
+	<path>C:\Users\Tim\tensorflow object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\nishino_nanase\mainana773_BmLFDrsBS2D.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>895</width>
+		<height>936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nishino_nanase</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>55</ymin>
+			<xmax>469</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

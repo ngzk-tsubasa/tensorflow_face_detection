@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nishino_nanase</folder>
+	<filename>nogi_keyaki_46_love_BmF1yPXAx8Z.jpg</filename>
+	<path>C:\Users\Tim\tensorflow object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\nishino_nanase\nogi_keyaki_46_love_BmF1yPXAx8Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1060</width>
+		<height>1325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nishino_nanase</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>38</ymin>
+			<xmax>1060</xmax>
+			<ymax>1066</ymax>
+		</bndbox>
+	</object>
+</annotation>

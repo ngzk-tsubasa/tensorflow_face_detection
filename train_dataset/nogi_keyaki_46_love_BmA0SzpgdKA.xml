@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Saitou_Asuka</folder>
+	<filename>nogi_keyaki_46_love_BmA0SzpgdKA.jpg</filename>
+	<path>C:\Users\Tim\tensorflow object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\Saitou_Asuka\nogi_keyaki_46_love_BmA0SzpgdKA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Saitou_Asuka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>129</ymin>
+			<xmax>860</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>
